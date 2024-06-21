@@ -2,6 +2,6 @@
 
 This project was given by [Prodigy Infotech](https://prodigyinfotech.dev/) as Task 2.
 
-See [Demo](https://hourglass.samiksha-singh.com.np/)
+See [Demo](https://prodigy-info-tech-internship-zdqx.vercel.app/)
 
 The title is "Hour Glass" and it is a timer app made with Vite.js, React, TypeScript, and Tailwind CSS. It functions as a stopwatch and can also measure laps.

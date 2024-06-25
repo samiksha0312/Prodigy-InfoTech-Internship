@@ -10,7 +10,7 @@ const Contact = () => {
       <section className="mapbox" data-mapbox>
         <figure>
           <iframe
-            src="https://maps.google.com/maps?ll=21.013994,75.520177&z=13.985886162830512&t=m&hl=en-US&gl=US&mapclient=apiv3&cid=11884075654126657145"
+            src="<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d29797.002195184607!2d75.533341!3d21.007653!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd9106aa2bf8e7f%3A0xa4ecb7d7c8165e79!2sShramsadhana%20Bombay%20Trust%2C%20College%20of%20Engineering%20%26%20Technology%2C%20Jalgaon!5e0!3m2!1sen!2sus!4v1719331888683!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
             width="400"
             height="300"
             loading="lazy"
